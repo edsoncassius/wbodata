@@ -10,7 +10,7 @@ The World Bank Open Data API have many indicators from different countries that 
 
 ## Retrieving Data and Visualization
 
-With the wbdata package it's possible to access those indicators and using pandas and other python libraries can be manipulated to produce a desired file format.
+With the wbdata package it's possible to access those indicators and using pandas and other python libraries it can be manipulated to produce a desired file format.
 
 Below is an example of the possible outputs obtained from the API.
 
